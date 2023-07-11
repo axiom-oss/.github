@@ -1,4 +1,4 @@
-<img src="assets/CanaryLogoGreenBanner.png" width="290px" height="70px">
+<img src="assets/CanaryLogoGreenBanner.png" width="321px" height="100px">
 
 ## Canary Development
 
