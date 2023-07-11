@@ -1,4 +1,4 @@
-![CanaryLogoBanner](assets/CanaryLogoGreenBanner.png)
+<img src="assets/CanaryLogoGreenBanner.png" width="290px" height="70px">
 
 ## Canary Development
 
