@@ -1,4 +1,4 @@
-<img src="profile/CanaryLogoGreenBanner.png" width="321px" height="100px">
+<img src="CanaryLogoGreenBanner.png" width="321px" height="100px">
 
 ## Canary Development
 
