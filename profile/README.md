@@ -1,4 +1,4 @@
-![CanaryLogoBanner](CanaryLogoBanner.png)
+![CanaryLogoBanner](profile/CanaryLogoBanner.png)
 
 ## Canary Development
 
