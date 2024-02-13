@@ -1,7 +1,6 @@
 ![CanaryLogoBanner](profile/CanaryLogoBanner.png)
 
-## Canary Development
+## Canary Softworks
 
-Canary Development is a team of talented game and open source developers that are focused on improving the experience of the player and the developer alike.
-
-Logos were made in collaboration with @d5_ax (Boohba)
+Canary Softworks is a team of talented game developers working to bring the best products. Whether it be reliability, scalability, or ease of use we have your back.
+Logos were made in collaboration with [@d4_ax](https://www.roblox.com/users/118447607/profile)
