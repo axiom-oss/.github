@@ -9,6 +9,7 @@
 
 ## Packages
 
+- [Components](https://github.com/luminlabsdev/components) A components library for Framework.
 - [Debugger](https://github.com/luminlabsdev/debugger) A customizable and extendable debugger for open source software.
 - [Net](https://github.com/luminlabsdev/net) A simple and lightweight networking library.
 
