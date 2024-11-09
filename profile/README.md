@@ -10,12 +10,9 @@
 
 ## Packages
 
-
 - [Markdowner](https://github.com/luminlabsdev/markdowner) A library for translation of markdown and Roblox rich text.
-- [Components](https://github.com/luminlabsdev/components) A components library for Framework.
-- [ExperienceControls](https://github.com/luminlabsdev/experience-controls) A better way to create custom experience controls.
 - [Debugger](https://github.com/luminlabsdev/debugger) A customizable and extendable debugger for open source software.
-- [Net](https://github.com/luminlabsdev/net) A simple and lightweight networking library.
+- [Net](https://github.com/luminlabsdev/net) A simple and lightweight buffer networking library.
 
 ## Plugins
 
