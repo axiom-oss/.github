@@ -4,7 +4,7 @@
 
 ## Frameworks
 
-- [Experien](https://github.com/luminlabsdev/framework) A featherlight and quick framework for Roblox experiences.
+- [Framework (LF)](https://github.com/luminlabsdev/framework) A featherlight and quick framework for Roblox experiences.
 - [PluginFramework (LPF)](https://github.com/luminlabsdev/plugin-framework) Extends Lumin Framework, adding proper plugin support and methods.
 - [UIFramework (LUF)](https://github.com/luminlabsdev/ui-framework) Optimized React-like UI framework for Roblox experiences.
 
