@@ -1,7 +1,6 @@
 ## Packages
 
 - [Framework](https://github.com/lumin-org/framework) A featherlight and quick framework for Roblox experiences.
-- [Plugin](https://github.com/lumin-org/plugin-framework) Extends Lumin Framework, adding proper plugin support and methods.
 - [UI](https://github.com/lumin-org/ui) A light, fast, and efficient UI framework that has a small learning curve.
 - [Debugger](https://github.com/lumin-org/debugger) A customizable and extendable debugger for open source software.
 
