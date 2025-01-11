@@ -1,3 +1,7 @@
+## CI/CD
+
+- [Setup Pesde](https://github.com/lumin-org/setup-pesde) A github action that sets up Pesde and Lune. 
+
 ## Packages
 
 - [Framework](https://github.com/lumin-org/framework) A featherlight and quick framework for Roblox experiences.
