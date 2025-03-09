@@ -1,15 +1,18 @@
-## CI/CD
+![banner](./assets/images/SuiteHero.svg)
 
-- [Setup Pesde](https://github.com/lumin-org/setup-pesde) A github action that sets up Pesde and Lune. 
-- [Version Bumper](https://github.com/lumin-org/version-bumper) A github action that bumps the version of TOML or JSON files.
+## CI/CD Automation
 
-## Packages
+- [Setup Pesde](https://github.com/lumin-org/setup-pesde) - A github action that sets up Pesde *(and Lune)*.
+- [Key Editor](https://github.com/lumin-org/version-bumper) - A github action that edits the specified key of TOML or JSON files.
 
-- [Framework](https://github.com/lumin-org/framework) A featherlight framework for Roblox experiences.
-- [UI](https://github.com/lumin-org/ui) An unrivaled UI framework for Roblox. 
-- [Debugger](https://github.com/lumin-org/debugger) A customizable and extendable debugger for open source software.
+## Packages and Libraries
 
-## Plugins
+- [Framework](https://github.com/lumin-org/framework) - A feather light game framework for Luau.
+- [UI](https://github.com/lumin-org/ui) - A simple and declarative UI framework.
+- [Debugger](https://github.com/lumin-org/debugger) - A customizable and extendable debugger for open source software.
 
-- [Previewer](https://github.com/lumin-org/previewer) Preview physics, assets, thumbnails, and datastores all without launching a game session.
-- [Creative](https://github.com/lumin-org/creative) Use a character creation dashboard with a built-in catalog, and update your lighting professionally.
+## Plugins and Tools
+
+- [Previewer](https://github.com/lumin-org/previewer) - Preview physics, assets, thumbnails, and datastores all without launching a game session.
+- [Creative](https://github.com/lumin-org/creative) - Use a character creation dashboard with a built-in catalog, and update your lighting professionally.
+- [Teams](https://github.com/lumin-org/teams) - Manage your team and see what they're doing inside of your experience with ease and peace of mind.
