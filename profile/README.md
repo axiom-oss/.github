@@ -1,5 +1,3 @@
-![banner](./assets/images/SuiteHero.svg)
-
 ## CI/CD Automation
 
 - [Setup Pesde](https://github.com/lumin-org/setup-pesde) - A github action that sets up Pesde *(and Lune)*.
@@ -8,11 +6,14 @@
 ## Packages and Libraries
 
 - [Framework](https://github.com/lumin-org/framework) - A feather light game framework for Luau.
-- [UI](https://github.com/lumin-org/ui) - A simple and declarative UI framework.
 - [Debugger](https://github.com/lumin-org/debugger) - A customizable and extendable debugger for open source software.
 
 ## Plugins and Tools
 
-- [Previewer](https://github.com/lumin-org/previewer) - Preview physics, assets, thumbnails, and datastores all without launching a game session.
-- [Creative](https://github.com/lumin-org/creative) - Use a character creation dashboard with a built-in catalog, and update your lighting professionally.
-- [Teams](https://github.com/lumin-org/teams) - Manage your team and see what they're doing inside of your experience with ease and peace of mind.
+- [Actions](https://github.com/lumin-org/actions) - Create customizable actions that you can use on any instance in the 3D world, while in Roblox Studio.
+
+## Help and More
+
+- [Discord](https://axiom-oss.github.io/to/discord) - Join our Discord server to get help and support.
+- [Website](https://axiom-oss.github.io) - Visit our website for more information.
+- [Newsroom](https://axiom-oss.github.io/newsroom) - Read our articles for more information.
